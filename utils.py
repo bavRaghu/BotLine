@@ -22,6 +22,3 @@ def matchScore(user_ip, faqs):
             best_qs = qs
     return best_qs, max_score
 
-def writeHistory(txt):
-    with open("chat_history.txt", "a") as f:
-        f.write(txt + "\n")
