@@ -1,0 +1,24 @@
+{
+  "How do I create an account": "Click 'Sign Up' at the top of the page and fill in your details. Once submitted, you'll receive a confirmation email.",
+  "How do I log in?": "Go to the login page and enter your registered email and password to access your account.",
+  "How to reset my password?": "Click on 'Forgot Password?' on the login page and follow the steps to reset your password via email.",
+  "How do I update my account information?": "Log in and go to 'My Account' > 'Account Settings' to update your name, email, password, and other details.",
+  "Is creating an account required to place an order?": "You can check out as a guest, but creating an account lets you track orders and manage your purchases more easily.",
+  "How can I track my order?": "Once your order ships, we’ll email you a tracking number. You can also track it under 'My Orders' in your account.",
+  "Can I cancel or change my order after placing it?": "We process orders quickly, but contact us ASAP. If the order hasn’t shipped, we’ll try to help.",
+  "How do I apply a promo code?": "You can enter your promo code at checkout in the 'Discount Code' field before completing your payment.",
+  "What payment methods do you accept?": "We accept major credit/debit cards, UPI, net banking, and popular wallets. Available options are shown at checkout.",
+  "Is it safe to shop on your website?": "Yes, we use secure encryption and trusted payment gateways to protect your personal and payment information.",
+  "Do you offer cash on delivery (COD)?": "Yes, COD is available on select orders. Availability depends on your location and the order value.",
+  "What are your shipping charges?": "Shipping charges vary based on your location and order total. You’ll see the exact cost at checkout.",
+  "How long does delivery take?": "Standard delivery usually takes 3–7 business days. Delivery times may vary based on location and product availability.",
+  "Do you ship internationally?": "Currently, we only ship within [your country] — but we’re working on expanding soon!",
+  "What’s your return policy?": "Most items can be returned within 7–15 days of delivery. Products must be unused and in original condition.",
+  "How do I request a return or exchange?": "Log into your account, go to 'My Orders,' and click 'Return/Exchange' next to the item. Follow the instructions provided.",
+  "When will I receive my refund?": "Refunds are usually processed within 5–7 business days after we receive and inspect the returned item.",
+  "Can I exchange an item for a different size or color?": "Yes, if the item is eligible for exchange and in stock. You can start the exchange process from your order history.",
+  "What if I receive a damaged or wrong item?": "We're sorry! Please contact our support team within 48 hours of delivery with photos, and we’ll make it right.",
+  "How do I contact customer support?": "You can reach us via live chat, email, or phone. Visit our 'Contact Us' page for full details.",
+  "Thank You": "Glad to be of help! Please let us know if there's anything else that you'd like to ask."
+}
+
